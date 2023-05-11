@@ -9,8 +9,8 @@ Personal Java Projects
 
 [ 2 ] Todo Application 
 
-    - Simple Todo App with Storage Support
+    - Simple Todo App with File Storage Support
     - Todo Stored are encrypted
-    - program will automatically fetch the stored todo(s) if present at the start of the program
+    - program will automatically fetch the stored todo(s) if present, at the start of the program
     - priority based todo ordering
     - working on : add multiple users, so that each user can have his/her own Todo storage.
